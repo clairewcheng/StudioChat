@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918066398964",
+    "firebase_url": "https://studiochatfirebase.firebaseio.com",
+    "project_id": "studiochatfirebase",
+    "storage_bucket": "studiochatfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918066398964:android:a3a12e52ff69e461",
+        "android_client_info": {
+          "package_name": "com.example.claire.studiochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918066398964-64sdngkvqpmdjunn1p0etnrmtrqb7fj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.claire.studiochat",
+            "certificate_hash": "b489d0ac9832bae75b6dd34a29a580bc6b2b416f"
+          }
+        },
+        {
+          "client_id": "918066398964-h3l19tsghj37bq7u94fgmj9g20mkrmr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQOI8JNdvqkRC7e0xT_d789xyzucd_Zg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918066398964-h3l19tsghj37bq7u94fgmj9g20mkrmr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

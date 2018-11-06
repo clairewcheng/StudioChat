@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudioChat</string>
+    <string name="type_something">type something...</string>
+    <string name="message_here">message here</string>
+    <string name="type_something_here">type something here...</string>
+    <string name="user">user</string>
+    <string name="time">time</string>
+    <string name="message_body">message body</string>
+</resources>
